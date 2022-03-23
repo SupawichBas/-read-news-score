@@ -1,0 +1,36 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "posts",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "newsH",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "news_url",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "posts",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "newsH",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "newsS",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "news_url",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
