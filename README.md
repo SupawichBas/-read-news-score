@@ -21,6 +21,12 @@ This command creates the generated files that parse each Record from Firestore i
 
 ![62020741 - Page 1 (1)](https://user-images.githubusercontent.com/86650262/159618180-723cdd44-9ef2-48bb-bff5-086c354bf72c.jpg)
 
+1.ผู้ใช้สามารถสมัครเข้าใช้งานได้
+
+2.ผู้ใช้สามารถเข้าไปดูข่าวสารที่ลงได้
+
+3.ผู้ใช้สามารถเพิ่มบทความหรือข่าวสารได้
+
 ### User Interface Design:
 
 หน้าล็อกอิน
