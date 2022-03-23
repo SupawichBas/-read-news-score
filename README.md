@@ -50,3 +50,29 @@ This command creates the generated files that parse each Record from Firestore i
 หน้าเพิ่มบทความ
 
 ![7](https://user-images.githubusercontent.com/86650262/159619547-52081ade-c512-4909-863c-7e0339ca221b.png)
+
+หน้าตัวอย่างบทความ
+
+![8](https://user-images.githubusercontent.com/86650262/159620587-66f79acb-7963-4d92-ae7c-4bc9ef6be205.png)
+
+### หน้าจอที่ได้จากการพัฒนา Mobile application ด้วย flutter:
+
+![11](https://user-images.githubusercontent.com/86650262/159620611-dffa6f0f-82d1-4431-8f0b-22f32c11d9ec.png)
+![22](https://user-images.githubusercontent.com/86650262/159620619-5b8b3dc5-68be-422b-bbee-6b67941c3ba7.png)
+![33](https://user-images.githubusercontent.com/86650262/159620624-6d177d5c-3be7-4b77-826e-0b5a1083910f.png)
+![44](https://user-images.githubusercontent.com/86650262/159620627-fad91ec7-c6a3-48b4-94f7-ac4c49ee3d75.png)
+![55](https://user-images.githubusercontent.com/86650262/159620652-00a58560-be9f-4c71-9843-4fdce1419914.png)
+![66](https://user-images.githubusercontent.com/86650262/159620657-c1290c69-242d-411b-a2f9-ed12b81aa836.png)
+![77](https://user-images.githubusercontent.com/86650262/159620660-3816ca31-05c9-458d-9e81-c04677adaa88.png)
+![88](https://user-images.githubusercontent.com/86650262/159620664-16378253-703e-4db2-9592-7b6e4c407861.png)
+
+
+
+
+
+
+
+
+
+
+
