@@ -20,3 +20,7 @@ This command creates the generated files that parse each Record from Firestore i
 ### Use Case Diagram:
 
 ![62020741 - Page 1 (1)](https://user-images.githubusercontent.com/86650262/159618180-723cdd44-9ef2-48bb-bff5-086c354bf72c.jpg)
+
+### User Interface Design:
+
+![1](https://user-images.githubusercontent.com/86650262/159619021-5a56b59b-20ef-4c66-ba8e-30af0535203b.png)
