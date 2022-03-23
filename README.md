@@ -72,13 +72,6 @@ This command creates the generated files that parse each Record from Firestore i
 ![77](https://user-images.githubusercontent.com/86650262/159620660-3816ca31-05c9-458d-9e81-c04677adaa88.png)
 ![88](https://user-images.githubusercontent.com/86650262/159620664-16378253-703e-4db2-9592-7b6e4c407861.png)
 
+### Clip demo การใช้ Mobile Application:
 
-
-
-
-
-
-
-
-
-
+https://drive.google.com/drive/u/0/folders/1A1g3W36QcM7S9YF1f-yNlg1apz5_Zwxn
